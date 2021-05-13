@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FanCentral_LandingPage/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/FanCentral_LandingPage/static/js/main.235e7191.chunk.js",
+    "main.js.map": "/FanCentral_LandingPage/static/js/main.235e7191.chunk.js.map",
+    "runtime-main.js": "/FanCentral_LandingPage/static/js/runtime-main.711bb595.js",
+    "runtime-main.js.map": "/FanCentral_LandingPage/static/js/runtime-main.711bb595.js.map",
+    "static/js/2.3e0ec491.chunk.js": "/FanCentral_LandingPage/static/js/2.3e0ec491.chunk.js",
+    "static/js/2.3e0ec491.chunk.js.map": "/FanCentral_LandingPage/static/js/2.3e0ec491.chunk.js.map",
+    "static/js/3.005ad98f.chunk.js": "/FanCentral_LandingPage/static/js/3.005ad98f.chunk.js",
+    "static/js/3.005ad98f.chunk.js.map": "/FanCentral_LandingPage/static/js/3.005ad98f.chunk.js.map",
+    "index.html": "/FanCentral_LandingPage/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/FanCentral_LandingPage/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3e0ec491.chunk.js.LICENSE.txt": "/FanCentral_LandingPage/static/js/2.3e0ec491.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/FanCentral_LandingPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711bb595.js",
+    "static/js/2.3e0ec491.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.235e7191.chunk.js"
+  ]
+}
