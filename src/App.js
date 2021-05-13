@@ -1,22 +1,27 @@
 import logo from './logo.svg';
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
+import {
+  BrowserRouter as Router,
+  Link
+} from "react-router-dom";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Navbar style={{background: '#3a3b3c', display: 'flex'}} expand="lg" fixed='top'>
+          <Link to="/FanCentral">
+            <img width='60' height='60' src={logo} style={{marginBottom: '0.5rem'}}></img>
+            <Navbar.Brand style={{fontSize: '40px', marginLeft: '20px', marginBottom: '0', fontWeight: 'bold', color: 'white'}}>FanCentral</Navbar.Brand>
+          </Link>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="ml-auto">
+            </Nav>
+          </Navbar.Collapse>
+        </Navbar>
       </header>
     </div>
   );
