@@ -33,6 +33,8 @@ function App() {
             also created a system where every interaction with posts (comments) generates points that can be used to redeem rewards. After our initial prototype and high-fidelity
             prototype, we sent our product out for user testing and incorporated the feedback into our website.
           </h3>
+          <h2>Our Team:</h2>
+          <h3>Prashanth Gopinatth, Aryan Varshney, Eric Park, Justin Chang</h3>
         </div>
       </header>
     </div>
