@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/FanCentral_LandingPage/static/css/main.24f9c521.chunk.css",
-    "main.js": "/FanCentral_LandingPage/static/js/main.dadf58e0.chunk.js",
-    "main.js.map": "/FanCentral_LandingPage/static/js/main.dadf58e0.chunk.js.map",
+    "main.css": "/FanCentral_LandingPage/static/css/main.eab5f69b.chunk.css",
+    "main.js": "/FanCentral_LandingPage/static/js/main.a9169bfe.chunk.js",
+    "main.js.map": "/FanCentral_LandingPage/static/js/main.a9169bfe.chunk.js.map",
     "runtime-main.js": "/FanCentral_LandingPage/static/js/runtime-main.f835fd09.js",
     "runtime-main.js.map": "/FanCentral_LandingPage/static/js/runtime-main.f835fd09.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/FanCentral_LandingPage/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.a990ef6e.chunk.js": "/FanCentral_LandingPage/static/js/2.a990ef6e.chunk.js",
-    "static/js/2.a990ef6e.chunk.js.map": "/FanCentral_LandingPage/static/js/2.a990ef6e.chunk.js.map",
+    "static/js/2.bbbe2dfd.chunk.js": "/FanCentral_LandingPage/static/js/2.bbbe2dfd.chunk.js",
+    "static/js/2.bbbe2dfd.chunk.js.map": "/FanCentral_LandingPage/static/js/2.bbbe2dfd.chunk.js.map",
     "static/js/3.2a703eff.chunk.js": "/FanCentral_LandingPage/static/js/3.2a703eff.chunk.js",
     "static/js/3.2a703eff.chunk.js.map": "/FanCentral_LandingPage/static/js/3.2a703eff.chunk.js.map",
     "index.html": "/FanCentral_LandingPage/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/FanCentral_LandingPage/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.24f9c521.chunk.css.map": "/FanCentral_LandingPage/static/css/main.24f9c521.chunk.css.map",
-    "static/js/2.a990ef6e.chunk.js.LICENSE.txt": "/FanCentral_LandingPage/static/js/2.a990ef6e.chunk.js.LICENSE.txt",
+    "static/css/main.eab5f69b.chunk.css.map": "/FanCentral_LandingPage/static/css/main.eab5f69b.chunk.css.map",
+    "static/js/2.bbbe2dfd.chunk.js.LICENSE.txt": "/FanCentral_LandingPage/static/js/2.bbbe2dfd.chunk.js.LICENSE.txt",
     "static/media/logo.5b6145d3.png": "/FanCentral_LandingPage/static/media/logo.5b6145d3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f835fd09.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.a990ef6e.chunk.js",
-    "static/css/main.24f9c521.chunk.css",
-    "static/js/main.dadf58e0.chunk.js"
+    "static/js/2.bbbe2dfd.chunk.js",
+    "static/css/main.eab5f69b.chunk.css",
+    "static/js/main.a9169bfe.chunk.js"
   ]
 }
